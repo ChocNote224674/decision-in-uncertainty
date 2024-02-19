@@ -1,0 +1,7 @@
+matplotlib==3.8.2
+networkx==3.2.1
+numpy==1.26.4
+pandas==2.2.0
+streamlit==1.29.0
+streamlit_option_menu==0.3.6
+streamlit_vertical_slider==2.5.5
