@@ -1,0 +1,1 @@
+In this project, the purpose is to help you making the best decisions using functions for making decisions such as Wald Criteria or Maximin, Maximax, Minimax, Hurwics Criteria, Laplace's Principle and Bernoulli's Principle
